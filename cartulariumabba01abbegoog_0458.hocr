@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./cartulariumabba01abbegoog_0458.png"; bbox 0 0 2866 5002; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 178 2043 1226 2155">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 178 2043 1226 2155">
+     <span class='ocr_line' id='line_1_1' title="bbox 178 2043 1226 2155; baseline 0.003 -5"><span class='ocrx_word' id='word_1_1' title='bbox 178 2045 360 2150; x_wconf 75' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_2' title='bbox 417 2043 795 2154; x_wconf 70' lang='lat' dir='ltr'>SURTEES</span> <span class='ocrx_word' id='word_1_3' title='bbox 849 2045 1226 2155; x_wconf 73' lang='lat' dir='ltr'><strong>SOOIETY.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 128 2795 1277 2871">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 128 2795 1277 2871">
+     <span class='ocr_line' id='line_1_2' title="bbox 128 2795 1277 2871; baseline -0.003 0"><span class='ocrx_word' id='word_1_4' title='bbox 128 2795 342 2871; x_wconf 77' lang='lat' dir='ltr'>REPORT</span> <span class='ocrx_word' id='word_1_5' title='bbox 387 2796 495 2870; x_wconf 83' lang='lat' dir='ltr'>FOR</span> <span class='ocrx_word' id='word_1_6' title='bbox 537 2797 645 2870; x_wconf 74' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_7' title='bbox 688 2797 839 2869; x_wconf 81' lang='lat' dir='ltr'><strong>YEAR</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 882 2795 1277 2871; x_wconf 72' lang='lat' dir='ltr'>MDOOOLXXIX.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1438 5002">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1438 5002">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1438 5002; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1438 5002; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
